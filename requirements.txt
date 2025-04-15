@@ -1,0 +1,12 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+plotly
+chart_studio
+cufflinks
+nbformat
+scikit-learn
+streamlit
